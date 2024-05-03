@@ -1,4 +1,7 @@
-### Hi there 👋
+# <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e479euakwjtrg4bbyh8txvaqjrmie8o54ajd7cjrxo7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"> Welcome to my profile! 👋 
+
+![Header](./header-banner.png)
+
 
 <!--
 **SilkenBread/SilkenBread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
